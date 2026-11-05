@@ -13,4 +13,4 @@ Rapports quotidiens automatisés de veille cybersécurité, axés en priorité s
 
 ## ⚙️ Automatisation
 
-Généré automatiquement tous les soirs à 20h00 (Europe/Paris) via l'automatisation Antigravity `daily-cyber-brief`.
+Généré automatiquement tous les soirs à 22h00 (Europe/Paris).
