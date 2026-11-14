@@ -7,6 +7,7 @@ Rapports quotidiens automatisés de veille cybersécurité, axés en priorité s
 ## 📂 Archives des Derniers Briefs
 
 <!-- BRIEFS_INDEX -->
+- [2026-11-14 - Veille Cybersécurité France](briefs/2026-11-14.md)
 - [2026-11-13 - Veille Cybersécurité France](briefs/2026-11-13.md)
 - [2026-11-12 - Veille Cybersécurité France](briefs/2026-11-12.md)
 - [2026-11-11 - Veille Cybersécurité France](briefs/2026-11-11.md)
